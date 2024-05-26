@@ -1,0 +1,12 @@
+************************************************** DATA  CACHE  STATSITICS *************************************************************
+# Data Cache Reads     =      159631
+# Data Cache Writes    =       83030
+# Data Cache Hits      =      241528 
+# Data Cache Misses    =        1133 
+# Data Cache Hit Ratio = 99.533093
+# 
+# *********************************************** INSTRUCTION  CACHE STATSITICS ***************************************************************
+# Instruction Cache Reads     =      757341 
+# Instruction Cache Misses    =        2973 
+# Instruction Cache Hits      =      754368 
+# Instruction Cache Hit Ratio =  99.607442 
